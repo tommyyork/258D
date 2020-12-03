@@ -1,6 +1,6 @@
 Source,/Users/tyork/Desktop/258/258D/258D.sch
 Kicad Rev,Eeschema (5.1.7-0-10_14)
-Generated Date,Wednesday, December 02, 2020 at 10:38:19 PM
+Generated Date,Wednesday, December 02, 2020 at 10:47:17 PM
 
 Title,258D Master Schematic
 Company,Not Set
@@ -111,7 +111,7 @@ Q101,DMMT3906W,258D-rescue,DMMT3906W-DiodesInc
 C103,100p,Device,C_Small
 R107,100k,Device,R
 R104,2M7,Device,R
-R103,150k,Device,R
+R103,150k,,,,,C17470,Device,R
 VR102,100kB,258D-rescue,POT-TaiwanAlpha
 VR101,100kB,258D-rescue,POT-TaiwanAlpha
 R102,180k,Device,R
@@ -120,11 +120,11 @@ R116,2k,Device,R
 R113,100k,Device,R
 R114,1k8,Device,R
 R106,10k,,,,,C17414,Device,R
-R111,100k,Device,R
+R111,100k,,,,, C17407,Device,R
 VR104,100kB,258D-rescue,POT-TaiwanAlpha
 VR103,100kB,258D-rescue,POT-TaiwanAlpha
 U103,TL072,Amplifier_Operational,TL072
-U101,TL074,Amplifier_Operational,TL074
+U101,TL074,,,,,C6963,Amplifier_Operational,TL074
 U102,LM13700,Amplifier_Operational,LM13700
 C113,100n,Device,C_Small
 C112,100n,Device,C_Small
@@ -209,7 +209,7 @@ Q201,DMMT3906W,258D-rescue,DMMT3906W-DiodesInc
 C203,100p,Device,C_Small
 R207,100k,Device,R
 R204,2M7,Device,R
-R203,150k,Device,R
+R203,150k,,,,,C17470,Device,R
 VR202,100kB,258D-rescue,POT-TaiwanAlpha
 VR201,100kB,258D-rescue,POT-TaiwanAlpha
 R202,180k,Device,R
@@ -218,11 +218,11 @@ R216,2k,Device,R
 R213,100k,Device,R
 R214,1k8,Device,R
 R206,10k,,,,,C17414,Device,R
-R211,100k,Device,R
+R211,100k,,,,, C17407,Device,R
 VR204,100kB,258D-rescue,POT-TaiwanAlpha
 VR203,100kB,258D-rescue,POT-TaiwanAlpha
 U203,TL072,Amplifier_Operational,TL072
-U201,TL074,Amplifier_Operational,TL074
+U201,TL074,,,,,C6963,Amplifier_Operational,TL074
 U202,LM13700,Amplifier_Operational,LM13700
 C213,100n,Device,C_Small
 C212,100n,Device,C_Small
